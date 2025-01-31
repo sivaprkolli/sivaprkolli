@@ -26,7 +26,6 @@
 
 ### 🏆 Notable Contributions
 - **Automation Plans**: Delivered custom automation plans to clients, tailored to their unique requirements.
-- **Freelancing**: Available for freelance projects in Automation QA for additional income.
 
 ### 🌱 Currently Learning
 - Advanced Kotlin Techniques
