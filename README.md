@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Siva Prasad Reddy]!
+# 👋 Hi there, I'm Siva Prasad Reddy!
 
 🚀 Automation Architect | 📊 SDET Trainer | 👨‍🏫 Automation Coach | 💻 Chapter Leader for BrowserStack Meetups
 
