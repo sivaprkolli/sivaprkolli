@@ -20,7 +20,7 @@
 ---
 
 ### 📈 Stats
-- **Completed Projects**: [sivaprkolli]
+- **Speaker Sessions**: The Test Tribe, BrowserStack, Agile Testing Alliance
 - **Training Sessions Conducted**: Multiple Selenium workshops, in-depth 3-day training sessions.
 - **Meetups Organized**: [https://www.meetup.com/browserstack-meetup-group-hyderabad/]
 
