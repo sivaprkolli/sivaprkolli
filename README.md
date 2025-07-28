@@ -1,12 +1,12 @@
 # 👋 Hi there, I'm Siva Prasad Reddy!
 
-🚀 Automation Architect | 📊 SDET Trainer | 👨‍🏫 Automation Coach | 💻 Chapter Leader for BrowserStack Meetups
+🚀 Automation Architect | 📊 SDET Trainer | 💻 Chapter Leader for BrowserStack Hyderabad Meetups
 
 ---
 
 ### 🔧 Tech Stack
 - **Programming Languages**: Java, Javascript, Ruby, C#
-- **Automation Frameworks**: Selenium, Cucumber, TestNG, Playwright, WebDriverIO, RestAssured, RestSharp
+- **Automation Frameworks**: Appium, Selenium, Cucumber, TestNG, Playwright, WebDriverIO, RestAssured, RestSharp
 - **Build Tools**: Maven
 - **Platforms**: Android (Kotlin development), BrowserStack
 - **Other Tools**: GitHub, Git
