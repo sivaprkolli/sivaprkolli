@@ -8,7 +8,7 @@
 - **Programming Languages**: Java, Javascript, Ruby, C#
 - **Automation Frameworks**: Appium, Selenium, Cucumber, TestNG, Playwright, WebDriverIO, RestAssured, RestSharp
 - **Build Tools**: Maven
-- **Platforms**: Android (Kotlin development), BrowserStack
+- **Platforms**: Dockers, Kubernetes, BrowserStack
 - **Other Tools**: GitHub, Git
 
 ### 🔥 Expertise
@@ -21,14 +21,14 @@
 
 ### 📈 Stats
 - **Speaker Sessions**: The Test Tribe, BrowserStack, Agile Testing Alliance
-- **Training Sessions Conducted**: Multiple Selenium workshops, in-depth 3-day training sessions.
+- **Training Sessions Conducted**: Selenium/Appium workshops, in-depth 3-day training sessions.
 - **Meetups Organized**: [https://www.meetup.com/browserstack-meetup-group-hyderabad/]
 
 ### 🏆 Notable Contributions
 - **Automation Plans**: Delivered custom automation plans to clients, tailored to their unique requirements.
 
 ### 🌱 Currently Learning
-- Advanced Kotlin Techniques
+- Advanced Automation Techniques
 - Cloud-Based Test Automation
 - Enhancing CI/CD Workflows
 
@@ -36,5 +36,5 @@
 
 ### 📫 Let's Connect!
 - **LinkedIn**: [https://www.linkedin.com/in/sivaprkolli]
-- **GitHub**: [https://github.com/sivaprkolli]
-- **Email**: [siva9kolli]
+- **GitHub**: https://github.com/sivaprkolli
+- **Email**: siva9kolli@gmail.com
