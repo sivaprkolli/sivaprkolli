@@ -35,6 +35,6 @@
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn**: [https://www.linkedin.com/in/sivaprkolli]
+- **LinkedIn**: https://www.linkedin.com/in/sivaprkolli
 - **GitHub**: https://github.com/sivaprkolli
 - **Email**: siva9kolli@gmail.com
